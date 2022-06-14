@@ -1,0 +1,9 @@
+.topnav,
+.main,
+.footer {
+    background-color: #1F2937;
+}
+
+#header {
+    font: 48px, extra-bold, #F9FAF8;
+}
